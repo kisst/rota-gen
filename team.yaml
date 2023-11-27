@@ -1,0 +1,24 @@
+---
+team:
+  - Name: Person A
+    TimeOff:
+      - 1
+      - 4
+  - Name: Person B
+    TimeOff:
+      - 3
+      - 6
+  - Name: Person C
+  - Name: Person D
+  - Name: Person E
+  - Name: Person F
+  - Name: Lazy one
+    TimeOff:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
